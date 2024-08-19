@@ -93,11 +93,13 @@ print("\nLenght of X_test ",len(X_test))
 ## OUTPUT:
 # Missing Values
 
-![307387194-38330016-b0f3-4096-8605-75c3db392bef](https://github.com/user-attachments/assets/9818cbb2-4780-40b0-8c1d-6b40560cd4e2)
+![image](https://github.com/user-attachments/assets/c532d2f5-c836-4803-9e5e-64796dbeebf8)
+
 
 # Duplicates
 
-![307387649-dbffe7eb-4da4-4c9c-80b3-0bfb45b39bf5](https://github.com/user-attachments/assets/be3a6ecd-ab43-47b6-bf19-1a7d8e5a0bcd)
+![image](https://github.com/user-attachments/assets/add00be5-156e-45cf-86a9-4f90d5d55400)
+
 
 # Outliers
 
@@ -105,15 +107,17 @@ print("\nLenght of X_test ",len(X_test))
 
 # Normalized dataset
 
-![307387956-e3a15e04-f77d-4855-9109-b972ebafae5e](https://github.com/user-attachments/assets/0d0df8e7-bf01-4e5a-b9f8-a10396b13891)
+![image](https://github.com/user-attachments/assets/6cd82ce9-d532-499c-9bcb-5e0d550160c6)
+
 
 # Input and Output
 
-![307388081-bea76f55-8d4f-49c5-a817-beadcdf5784c](https://github.com/user-attachments/assets/9bedb9d0-ddbd-4ed6-b020-17ec0a3f1b07)
+![image](https://github.com/user-attachments/assets/506dc1cf-ad47-43bb-9b79-65751955f812)
 
 # Training and Testing data
 
-![307388265-637002f1-43a0-4a5f-b1ad-636dc15f9c53](https://github.com/user-attachments/assets/93ec79b9-7796-4e60-b6c6-068fde2fcdae)
+![image](https://github.com/user-attachments/assets/7356a696-fa9e-44c8-9a1f-098f645f06a2)
+
 
 
 
